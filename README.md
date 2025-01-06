@@ -5,7 +5,7 @@ This project focuses on developing a deep learning model to classify handwritten
 ## Table of Contents
 
 1.  [Introduction](#introduction)
-2.  [Dataset]()
+2.  [Dataset](#dataset)
 3.  [Model Architecture](#model-architecture)
 4.  [How to Run](#how-to-run)
 5.  [Results](#results)
